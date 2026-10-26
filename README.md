@@ -7,7 +7,7 @@
 </picture>
 </a>
 
-Greenfield happens, but most of the work I take on is repair on systems that are already live and have traffic. Design systems, frontend architecture, and accessibility are most of it. So is the build and test tooling around a release.
+Most of the work I take on is repair. The system is already live, has traffic, and will not be rewritten from scratch. The job is usually design systems, frontend architecture, accessibility, and the tooling around a release.
 
 Outside that I build my own products: two on the App Store, one in field testing, and an open-source test harness that came out of the OBD2 work.
 
@@ -37,7 +37,7 @@ Scan a VIN and get the car's public record: recalls, complaints, crash tests, fu
 
 ### ChatOBD2
 
-An AI mechanic for people who do not want to learn OBD2. Six deterministic reasoning layers run before a model sees the data, and the answer is schema-bound to one sentence a driver can act on. In QA and field testing.
+ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic reasoning engine correlates the codes, freeze-frame data, and fuel trims; the AI report is schema-validated before the app renders it. In QA and field testing.
 
 [Case study](https://qadan.co/work/chatobd2/)
 

@@ -60,7 +60,7 @@ The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so
 
 Reads the public record for a VIN: factory decode, NHTSA recalls and complaints, crash ratings, and EPA fuel economy. TypeScript, no API key, 34 tests, MIT.
 
-[Repository](https://github.com/qadanm/vinplain) · [v0.2.1](https://github.com/qadanm/vinplain/releases/tag/v0.2.1)
+[npm](https://www.npmjs.com/package/vinplain) · [Repository](https://github.com/qadanm/vinplain) · [v0.2.2](https://github.com/qadanm/vinplain/releases/tag/v0.2.2)
 
 ## Platform work
 

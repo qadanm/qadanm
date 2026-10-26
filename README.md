@@ -9,7 +9,7 @@
 
 Most of the work I take on is repair. The system is already live, has traffic, and will not be rewritten from scratch. The job is usually design systems, frontend architecture, accessibility, and the tooling around a release.
 
-Outside that I build my own products: two on the App Store, one in field testing, and an open-source test harness that came out of the OBD2 work.
+Outside that I build my own products: two on the App Store, one in field testing, and two open-source libraries from the same automotive work.
 
 ## Products
 
@@ -55,6 +55,12 @@ ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic 
 The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so the Bluetooth layer usually goes untested. elmulator is a scripted ELM327 you can point real CoreBluetooth code at, in CI, with no car and no adapter. A conformance suite keeps the Swift server and the Python server byte-identical. The repository is public and MIT licensed.
 
 [Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
+
+### vehicle-research
+
+A TypeScript client for US public vehicle data: VIN validation and the ISO 3779 check digit, NHTSA recalls, complaints, and crash ratings, EPA fuel economy. Zero runtime dependencies, 30 deterministic tests, MIT.
+
+[Repository](https://github.com/qadanm/vehicle-research) · [v0.1.2](https://github.com/qadanm/vehicle-research/releases/tag/v0.1.2)
 
 ## Platform work
 

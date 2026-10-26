@@ -58,9 +58,11 @@ The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so
 
 ### vinplain
 
+<a href="https://www.npmjs.com/package/vinplain"><img src="https://img.shields.io/npm/v/vinplain?color=D7261E" alt="npm"></a>
+
 Reads the public record for a VIN: factory decode, NHTSA recalls and complaints, crash ratings, and EPA fuel economy. TypeScript, no API key, 34 tests, MIT.
 
-[npm](https://www.npmjs.com/package/vinplain) · [Repository](https://github.com/qadanm/vinplain) · [v0.2.2](https://github.com/qadanm/vinplain/releases/tag/v0.2.2)
+[Website](https://qadanm.github.io/vinplain/) · [Repository](https://github.com/qadanm/vinplain) · [Releases](https://github.com/qadanm/vinplain/releases) · [Case study](https://qadan.co/work/vinplain/)
 
 ## Platform work
 

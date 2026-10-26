@@ -46,8 +46,8 @@ An AI mechanic for people who do not want to learn OBD2. Six deterministic reaso
 ### elmulator
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/elmulator-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/elmulator-mobile-light.svg">
+  <source media="(max-width: 1100px) and (prefers-color-scheme: dark)" srcset="assets/elmulator-mobile-dark.svg">
+  <source media="(max-width: 1100px)" srcset="assets/elmulator-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/elmulator-dark.svg">
   <img src="assets/elmulator-light.svg" alt="Diagram: an app connects over Bluetooth to a scripted ELM327 adapter and ECU. Below, Swift and Python servers are compared byte for byte." width="880">
 </picture>
@@ -73,8 +73,8 @@ Advisor and customer portals for more than fifty wealth and banking institutions
 ## Stack
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
+  <source media="(max-width: 1100px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
+  <source media="(max-width: 1100px)" srcset="assets/stack-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" alt="Toolchain grouped by layer: interface, platform, and instrument." width="880">
 </picture>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320" role="img" aria-labelledby="tD dD">
+<title id="tD">Moe Qadan, senior UX and frontend engineer</title>
+<desc id="dD">A technical drawing sheet. The name Moe Qadan is dimensioned like a machined part. A panel shows a test path from app to a scripted adapter to an ECU. A title block lists Los Angeles and 2026.</desc>
+<rect width="880" height="320" fill="#17191A"/>
+<rect x="20" y="20" width="840" height="280" fill="none" stroke="#EDEAE2" stroke-width="1"/>
+<path d="M20 32V20h12 M848 20h12v12 M860 288v12h-12 M32 300h-12v-12" fill="none" stroke="#EDEAE2" stroke-width="1.4"/>
+<text x="40" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="2.2" fill="#9A958C">MQ / FIELD MANUAL / 2026</text>
+<text x="840" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="2.2" text-anchor="end" fill="#9A958C">REV 2026.10</text>
+<text x="38" y="152" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="84" letter-spacing="-3" font-weight="700" fill="#EDEAE2">MOE QADAN</text>
+<text x="41" y="178" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.6" fill="#EDEAE2">SENIOR UX + FRONTEND ENGINEER / LOS ANGELES</text>
+<line x1="40" y1="206" x2="506" y2="206" stroke="#EDEAE2" stroke-width="1"/>
+<path d="M40 201v10 M506 201v10" stroke="#EDEAE2" stroke-width="1"/>
+<path d="M44 206l8-3v6z M502 206l-8-3v6z" fill="#EDEAE2"/>
+<rect x="248" y="192" width="52" height="13" fill="#17191A"/>
+<text x="274" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1" text-anchor="middle" fill="#EDEAE2">466.0</text>
+<text x="40" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.4" fill="#9A958C">NAME / 84 PT / TRACK -3 / UNITS PT</text>
+<text x="604" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.6" fill="#9A958C">FIG. 01 / TEST PATH</text>
+<line x1="604.0" y1="58" x2="604.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="630.0" y1="58" x2="630.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="656.0" y1="58" x2="656.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="682.0" y1="58" x2="682.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="708.0" y1="58" x2="708.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="734.0" y1="58" x2="734.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="760.0" y1="58" x2="760.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="786.0" y1="58" x2="786.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="812.0" y1="58" x2="812.0" y2="182" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="604" y1="58.0" x2="812" y2="58.0" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="604" y1="78.7" x2="812" y2="78.7" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="604" y1="99.3" x2="812" y2="99.3" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="604" y1="120.0" x2="812" y2="120.0" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="604" y1="140.7" x2="812" y2="140.7" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="604" y1="161.3" x2="812" y2="161.3" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="604" y1="182.0" x2="812" y2="182.0" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<path d="M610.0,147.3 L651.0,147.3 L651.0,126.2 L659.0,126.2 L659.0,126.2 L700.0,126.2 L700.0,107.6 L708.0,107.6 L708.0,107.6 L749.0,107.6 L749.0,85.3 L757.0,85.3 L757.0,85.3 L798.0,85.3 L798.0,85.3 L806.0,85.3" fill="none" stroke="#FF6A1A" stroke-width="1.7"/>
+<circle cx="610" cy="147.3" r="2.4" fill="#FF6A1A"/>
+<circle cx="806" cy="85.3" r="2.4" fill="#FF6A1A"/>
+<text x="634.5" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1.2" text-anchor="middle" fill="#9A958C">APP</text>
+<line x1="634.5" y1="182" x2="634.5" y2="186" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<text x="683.5" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1.2" text-anchor="middle" fill="#9A958C">BLE</text>
+<line x1="683.5" y1="182" x2="683.5" y2="186" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<text x="732.5" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1.2" text-anchor="middle" fill="#9A958C">ELM</text>
+<line x1="732.5" y1="182" x2="732.5" y2="186" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<text x="781.5" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1.2" text-anchor="middle" fill="#9A958C">ECU</text>
+<line x1="781.5" y1="182" x2="781.5" y2="186" stroke="#EDEAE2" stroke-opacity="0.16"/>
+<line x1="20" y1="240" x2="860" y2="240" stroke="#EDEAE2" stroke-width="1"/>
+<line x1="300" y1="240" x2="300" y2="300" stroke="#EDEAE2" stroke-width="1"/>
+<line x1="590" y1="240" x2="590" y2="300" stroke="#EDEAE2" stroke-width="1"/>
+<text x="36" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.6" fill="#9A958C">DRAWN</text>
+<text x="36" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1" fill="#EDEAE2">M. QADAN</text>
+<text x="36" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1" fill="#9A958C">2026 / LOS ANGELES</text>
+<text x="316" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.6" fill="#9A958C">SCOPE</text>
+<text x="316" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1" fill="#EDEAE2">INTERFACE / SYSTEM / INSTRUMENT</text>
+<text x="316" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1" fill="#9A958C">PRODUCT + PLATFORM + TEST</text>
+<text x="606" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.6" fill="#9A958C">SITE</text>
+<text x="606" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1" fill="#EDEAE2">QADAN.CO</text>
+<text x="606" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1" fill="#9A958C">WORK / 2026</text>
+</svg>

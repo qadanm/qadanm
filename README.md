@@ -1,55 +1,86 @@
-# Moe Qadan
+<a href="https://qadan.co/work/" aria-label="Case studies at qadan.co/work">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Moe Qadan, senior UX and frontend engineer in Los Angeles" width="880">
+</picture>
+</a>
 
-**Senior UX & frontend engineer — Los Angeles**
+Greenfield happens, but most of the work I take on is repair on systems that are already live and have traffic. Design systems, frontend architecture, and accessibility are most of it. So is the build and test tooling around a release.
 
-I do UX and frontend as one job: the interface and the system behind it. Design systems, long-running production platforms, mobile products, and the test infrastructure that keeps them honest.
+Outside that I build my own products: two on the App Store, one in field testing, and an open-source test harness that came out of the OBD2 work.
 
-I care about reading the constraints before changing anything, picking structures that survive years of edits, and putting AI behind deterministic layers rather than in front of them.
+## Products
 
----
+### CarSpotter
 
-## Selected work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/carspotter-dark.svg">
+  <img src="assets/carspotter-light.svg" alt="A magnified wheel-arch detail connected to the full car it belongs to, with the cropped area marked." width="880">
+</picture>
 
-**CarSpotter** · daily car-identification game for iPhone<br>
-Designed and engineered end to end: interaction, identity, content tooling, release.
-[App Store](https://apps.apple.com/app/carspotter-daily-car-game/id6777868215) · [carspottergame.com](https://carspottergame.com) · [Case study](https://qadan.co/work/car-spotter/)
+Five cars a day, four choices, then the whole car and a fact. I designed the game and the iPhone app, built the Saturn-led identity, and wrote the ImageMagick pipeline that prepares the photography.
 
-**VINly** · free VIN research for iOS<br>
-Recalls, complaints, crash tests, fuel cost, and nearby listings. Every VIN is check-digit validated on device before anything is looked up.
-[App Store](https://apps.apple.com/us/app/vinly-buyer-reports/id6774041303) · [vinly.dev](https://vinly.dev) · [Case study](https://qadan.co/work/vinly/)
+[App Store](https://apps.apple.com/app/carspotter-daily-car-game/id6777868215) · [Case study](https://qadan.co/work/car-spotter/)
 
-**elmulator** · scriptable ELM327/OBD2 adapter emulator and CI harness<br>
-Swift and Python servers, held byte-for-byte identical by a conformance suite. Test real Bluetooth code with no car, no adapter, no radio. MIT.
-[Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
+### VINly
 
-**ChatOBD2** · AI-native automotive diagnostics<br>
-Prompt modules as production code, schema-bound output, deterministic reasoning before every model call. In QA and field testing.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vinly-dark.svg">
+  <img src="assets/vinly-light.svg" alt="Seventeen VIN character cells with position nine, the check digit, highlighted." width="880">
+</picture>
+
+Scan a VIN and get the car's public record: recalls, complaints, crash tests, fuel cost, and listings nearby. The check digit is validated on the phone before any lookup, and the photo never leaves the device.
+
+[App Store](https://apps.apple.com/us/app/vinly-buyer-reports/id6774041303) · [Case study](https://qadan.co/work/vinly/)
+
+### ChatOBD2
+
+An AI mechanic for people who do not want to learn OBD2. Six deterministic reasoning layers run before a model sees the data, and the answer is schema-bound to one sentence a driver can act on. In QA and field testing.
+
 [Case study](https://qadan.co/work/chatobd2/)
 
-**MagTek** · enterprise web platform, current<br>
-Frontend systems across an 11-site ASP.NET MVC estate: a 100+ component Razor library, a token-based CSS foundation, and migrations sequenced to keep production up.
+## Open source
+
+### elmulator
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/elmulator-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/elmulator-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/elmulator-dark.svg">
+  <img src="assets/elmulator-light.svg" alt="Diagram: an app connects over Bluetooth to a scripted ELM327 adapter and ECU. Below, Swift and Python servers are compared byte for byte." width="880">
+</picture>
+
+The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so the Bluetooth layer usually goes untested. elmulator is a scripted ELM327 you can point real CoreBluetooth code at, in CI, with no car and no adapter. A conformance suite keeps the Swift server and the Python server byte-identical. The repository is public and MIT licensed.
+
+[Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
+
+## Platform work
+
+### MagTek
+
+Eleven sites on one ASP.NET MVC codebase. My side is the frontend: a Razor component library past 100 pieces, a CSS foundation rebuilt as tokens, and migrations sequenced so production stays up.
+
 [Case study](https://qadan.co/work/magtek-platform/)
 
-**InvestCloud** · wealth and banking portals, earlier<br>
-Advisor and customer portals deployed across 50+ institutions on a multi-tenant frontend.
+### InvestCloud
+
+Advisor and customer portals for more than fifty wealth and banking institutions ran on one multi-tenant framework, each with its own branding and density. I implemented the frontends and translated the designs, then did it again for the next institution.
+
 [Case study](https://qadan.co/work/financial-platforms/)
-
----
-
-## How I work
-
-1. **Read the constraints first.** Long-running platforms have opinions about how they want to be changed.
-2. **Pick the structure carefully.** Tokens, typed components, content models — decisions that get cheap or expensive later.
-3. **Use AI where it earns its place.** Prompts reviewed like code, outputs constrained at the boundary, deterministic layers in front.
-
-[The longer version →](https://qadan.co/approach/)
 
 ## Stack
 
-`TypeScript` `React` `React Native` `Astro` `Swift` `Python` `ASP.NET MVC` `C#` `Razor` `CSS` `Supabase` `GitHub Actions`
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Toolchain grouped by layer: interface, platform, and instrument." width="880">
+</picture>
 
-## Elsewhere
+Most new work is TypeScript and React. MagTek is C# and Razor; the hardware work is Swift and Python.
 
-[qadan.co](https://qadan.co/) · [Work](https://qadan.co/work/) · [About](https://qadan.co/about/) · [Uses](https://qadan.co/uses/) · [LinkedIn](https://linkedin.com/in/mqadan) · [moe@qadan.co](mailto:moe@qadan.co)
+## Contact
 
-<sub>Client and employer source is private. The case studies document the decisions; public repositories hold the work that can be shared.</sub>
+Case studies are at [qadan.co/work](https://qadan.co/work/). [moe@qadan.co](mailto:moe@qadan.co) reaches me.

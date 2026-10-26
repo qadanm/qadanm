@@ -13,7 +13,7 @@
 
 I do UX and frontend as one job. Most of the work I take on is repair: a platform that grew without a system, a site that ranks well and converts badly, a frontend that ships fine on Chrome and falls apart on iOS. Greenfield happens, but most of my work isn't that.
 
-I designed and built CarSpotter, VINly, and ChatOBD2. Two open-source libraries came out of the same automotive work. I currently lead the web experience at MagTek and live in Los Angeles.
+I designed and built CarSpotter, VINly, and ChatOBD2. Two open-source libraries came out of the same automotive work. I currently own the full stack across all eleven MagTek sites and live in Los Angeles.
 
 Now: VINly is live on the App Store. ChatOBD2 is in QA and field testing.
 
@@ -111,7 +111,7 @@ Reads the public record for a VIN: factory decode, NHTSA recalls and complaints,
 
 <sub>Platform work · Current</sub>
 
-Platform context: eleven sites on one ASP.NET MVC codebase, $11B processed annually, 99.9% uptime. My contribution: about 85% frontend ownership, a Razor component library past 100 pieces, a CSS foundation rebuilt as tokens, and migrations sequenced so production stays up.
+Platform context: eleven sites on one ASP.NET MVC codebase, $11B processed annually, 99.9% uptime. I own 100% of the full stack across all eleven sites: the C#/ASP.NET MVC application layer, Razor views and Entity Framework data access, the 100+ component library, the CSS foundation rebuilt as tokens, and production migrations sequenced so the sites stay up.
 
 [Case study](https://qadan.co/work/magtek-platform/)
 
@@ -125,7 +125,7 @@ Advisor and customer portals for more than fifty wealth and banking institutions
 
 ## Tools
 
-Most new work is TypeScript and React. MagTek is C# and Razor; the automotive work is Swift and Python. The current toolchain is on [Uses](https://qadan.co/uses/).
+Most new work is TypeScript and React. MagTek is C#, ASP.NET MVC, Razor, and Entity Framework; the automotive work is Swift and Python. The current toolchain is on [Uses](https://qadan.co/uses/).
 
 ## Contact
 

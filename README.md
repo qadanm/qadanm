@@ -1,15 +1,19 @@
-<a href="https://qadan.co/work/" aria-label="Case studies at qadan.co/work">
+<a href="https://qadan.co/work/#gh-light-mode-only" aria-label="Case studies at qadan.co/work">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.png">
   <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
   <img src="assets/hero-light.png" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
+</picture>
+</a>
+<a href="https://qadan.co/work/#gh-dark-mode-only" aria-label="Case studies at qadan.co/work">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile-dark.png">
+  <img src="assets/hero-dark.png" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
 </picture>
 </a>
 
 I do UX and frontend as one job. Most of the work I take on is repair: a platform that grew without a system, a site that ranks well and converts badly, a frontend that ships fine on Chrome and falls apart on iOS. Greenfield happens, but most of my work isn't that.
 
-I designed and built CarSpotter, VINly, and ChatOBD2. Two open-source libraries came out of the same automotive work. I currently lead the web experience at MagTek.
+I designed and built CarSpotter, VINly, and ChatOBD2. Two open-source libraries came out of the same automotive work. I currently lead the web experience at MagTek and live in Los Angeles.
 
 Now: VINly is live on the App Store. ChatOBD2 is in QA and field testing.
 
@@ -54,12 +58,18 @@ ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic 
 ## Open source
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/shelf-open-source-mobile-dark.jpg">
-    <source media="(max-width: 600px)" srcset="assets/shelf-open-source-mobile-light.jpg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/shelf-open-source-dark.jpg">
-    <img src="assets/shelf-open-source-light.jpg" alt="elmulator and vinplain project posters." width="880">
-  </picture>
+  <a href="https://qadan.co/work/#gh-light-mode-only">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/shelf-open-source-mobile-light.jpg">
+      <img src="assets/shelf-open-source-light.jpg" alt="elmulator and vinplain project posters." width="880">
+    </picture>
+  </a>
+  <a href="https://qadan.co/work/#gh-dark-mode-only">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/shelf-open-source-mobile-dark.jpg">
+      <img src="assets/shelf-open-source-dark.jpg" alt="elmulator and vinplain project posters." width="880">
+    </picture>
+  </a>
 </p>
 
 ### elmulator
@@ -81,12 +91,18 @@ Reads the public record for a VIN: factory decode, NHTSA recalls and complaints,
 ## Platform work
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/shelf-platform-mobile-dark.jpg">
-    <source media="(max-width: 600px)" srcset="assets/shelf-platform-mobile-light.jpg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/shelf-platform-dark.jpg">
-    <img src="assets/shelf-platform-light.jpg" alt="MagTek Platform and Advisor Platforms project posters." width="880">
-  </picture>
+  <a href="https://qadan.co/work/#gh-light-mode-only">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/shelf-platform-mobile-light.jpg">
+      <img src="assets/shelf-platform-light.jpg" alt="MagTek Platform and Advisor Platforms project posters." width="880">
+    </picture>
+  </a>
+  <a href="https://qadan.co/work/#gh-dark-mode-only">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/shelf-platform-mobile-dark.jpg">
+      <img src="assets/shelf-platform-dark.jpg" alt="MagTek Platform and Advisor Platforms project posters." width="880">
+    </picture>
+  </a>
 </p>
 
 ### MagTek Platform

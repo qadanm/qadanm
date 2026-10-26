@@ -1,94 +1,132 @@
-<a href="https://qadan.co/work/" aria-label="Case studies at qadan.co/work">
+<a href="https://qadan.co/work/#gh-light-mode-only" aria-label="Case studies at qadan.co/work">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Moe Qadan, senior UX and frontend engineer in Los Angeles" width="880">
+  <source media="(max-width: 1100px)" srcset="assets/qadan-hero-mobile-light.png?v=20261026">
+  <img src="assets/qadan-hero-light.png?v=20261026" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
+</picture>
+</a>
+<a href="https://qadan.co/work/#gh-dark-mode-only" aria-label="Case studies at qadan.co/work">
+<picture>
+  <source media="(max-width: 1100px)" srcset="assets/qadan-hero-mobile-dark.png?v=20261026">
+  <img src="assets/qadan-hero-dark.png?v=20261026" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
 </picture>
 </a>
 
-Most of the work I take on is repair. The system is already live, has traffic, and will not be rewritten from scratch. The job is usually design systems, frontend architecture, accessibility, and the tooling around a release.
+I do UX and frontend as one job. Most of the work I take on is repair: a platform that grew without a system, a site that ranks well and converts badly, a frontend that ships fine on Chrome and falls apart on iOS. Greenfield happens, but most of my work isn't that.
 
-Outside that I build my own products: two on the App Store, one in field testing, and two open-source libraries from the same automotive work.
+I designed and built CarSpotter, VINly, and ChatOBD2. Two open-source libraries came out of the same automotive work. I currently lead the web experience at MagTek and live in Los Angeles.
 
-## Products
+Now: VINly is live on the App Store. ChatOBD2 is in QA and field testing.
+
+Case studies: [qadan.co/work](https://qadan.co/work/). Email: [moe@qadan.co](mailto:moe@qadan.co).
+
+## Independent products
 
 ### CarSpotter
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/carspotter-dark.svg">
-  <img src="assets/carspotter-light.svg" alt="A magnified wheel-arch detail connected to the full car it belongs to, with the cropped area marked." width="880">
-</picture>
+<sub>Independent product · iOS · On the App Store</sub>
+
+<p align="center">
+  <a href="https://qadan.co/work/car-spotter/"><img src="assets/qadan-carspotter.jpg?v=20261026" alt="CarSpotter poster: the Saturn identity, a daily car question, and the matching reveal." width="720"></a>
+</p>
 
 Five cars a day, four choices, then the whole car and a fact. I designed the game and the iPhone app, built the Saturn-led identity, and wrote the ImageMagick pipeline that prepares the photography.
 
-[App Store](https://apps.apple.com/app/carspotter-daily-car-game/id6777868215) · [Case study](https://qadan.co/work/car-spotter/)
+[App Store](https://apps.apple.com/app/carspotter-daily-car-game/id6777868215) · [carspottergame.com](https://carspottergame.com) · [Case study](https://qadan.co/work/car-spotter/)
 
 ### VINly
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/vinly-dark.svg">
-  <img src="assets/vinly-light.svg" alt="Seventeen VIN character cells with position nine, the check digit, highlighted." width="880">
-</picture>
+<sub>Independent product · iOS · On the App Store</sub>
 
-Scan a VIN and get the car's public record: recalls, complaints, crash tests, fuel cost, and listings nearby. The check digit is validated on the phone before any lookup, and the photo never leaves the device.
+<p align="center">
+  <a href="https://qadan.co/work/vinly/"><img src="assets/qadan-vinly.jpg?v=20261026" alt="VINly poster: a 2024 Ford F-150 public-record report and the on-device VIN reader." width="720"></a>
+</p>
 
-[App Store](https://apps.apple.com/us/app/vinly-buyer-reports/id6774041303) · [Case study](https://qadan.co/work/vinly/)
+Scan a VIN and get the car's public record: recalls, complaints, crash tests, fuel cost, and listings nearby. The VIN is read on the phone, validated against the ISO 3779 check digit before any lookup, and the photo never leaves the device. Free.
+
+[App Store](https://apps.apple.com/us/app/vinly-buyer-reports/id6774041303) · [vinly.dev](https://vinly.dev) · [Case study](https://qadan.co/work/vinly/)
 
 ### ChatOBD2
 
-ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic reasoning engine correlates the codes, freeze-frame data, and fuel trims; the AI report is schema-validated before the app renders it. In QA and field testing.
+<sub>Independent product · iOS · In QA and field testing</sub>
+
+<p align="center">
+  <a href="https://qadan.co/work/chatobd2/"><img src="assets/qadan-chatobd2.jpg?v=20261026" alt="ChatOBD2 poster: a diagnostic chat and verdict surface on a 2010 Toyota Prius." width="720"></a>
+</p>
+
+ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic reasoning engine correlates codes, freeze-frame data, and fuel trims; six reasoning layers and a 38,000-token prompt budget sit before the model call, and the report is schema-validated before the app renders it. The app, marketing site, and developer portal are built. In QA and field testing.
 
 [Case study](https://qadan.co/work/chatobd2/)
 
 ## Open source
 
+<p align="center">
+  <a href="https://qadan.co/work/#gh-light-mode-only">
+    <picture>
+      <source media="(max-width: 1100px)" srcset="assets/qadan-open-source-mobile-light.jpg?v=20261026">
+      <img src="assets/qadan-open-source-light.jpg?v=20261026" alt="elmulator and vinplain project posters." width="880">
+    </picture>
+  </a>
+  <a href="https://qadan.co/work/#gh-dark-mode-only">
+    <picture>
+      <source media="(max-width: 1100px)" srcset="assets/qadan-open-source-mobile-dark.jpg?v=20261026">
+      <img src="assets/qadan-open-source-dark.jpg?v=20261026" alt="elmulator and vinplain project posters." width="880">
+    </picture>
+  </a>
+</p>
+
 ### elmulator
 
-<picture>
-  <source media="(max-width: 1100px) and (prefers-color-scheme: dark)" srcset="assets/elmulator-mobile-dark.svg">
-  <source media="(max-width: 1100px)" srcset="assets/elmulator-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/elmulator-dark.svg">
-  <img src="assets/elmulator-light.svg" alt="Diagram: an app connects over Bluetooth to a scripted ELM327 adapter and ECU. Below, Swift and Python servers are compared byte for byte." width="880">
-</picture>
+<sub>Open source · Swift + Python · MIT</sub>
 
-The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so the Bluetooth layer usually goes untested. elmulator is a scripted ELM327 you can point real CoreBluetooth code at, in CI, with no car and no adapter. A conformance suite keeps the Swift server and the Python server byte-identical. The repository is public and MIT licensed.
+The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so the Bluetooth layer usually goes untested. elmulator is a scripted ELM327 you can point real CoreBluetooth code at, in CI, with no car and no adapter. A conformance suite keeps the Swift and Python servers byte-identical. Zero runtime dependencies; seven fixture scenarios.
 
 [Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
 
 ### vinplain
 
-<a href="https://www.npmjs.com/package/vinplain"><img src="https://img.shields.io/npm/v/vinplain?color=D7261E" alt="npm"></a>
+<sub>Open source · TypeScript · npm</sub>
 
-Reads the public record for a VIN: factory decode, NHTSA recalls and complaints, crash ratings, and EPA fuel economy. TypeScript, no API key, 34 tests, MIT.
+Reads the public record for a VIN: factory decode, NHTSA recalls and complaints, crash ratings, and EPA fuel economy. Three public data sources, zero runtime dependencies, 34 tests. MIT.
 
-[Website](https://qadanm.github.io/vinplain/) · [Repository](https://github.com/qadanm/vinplain) · [Releases](https://github.com/qadanm/vinplain/releases) · [Case study](https://qadan.co/work/vinplain/)
+[npm](https://www.npmjs.com/package/vinplain) · [Website](https://qadanm.github.io/vinplain/) · [Repository](https://github.com/qadanm/vinplain) · [Case study](https://qadan.co/work/vinplain/)
 
 ## Platform work
 
-### MagTek
+<p align="center">
+  <a href="https://qadan.co/work/#gh-light-mode-only">
+    <picture>
+      <source media="(max-width: 1100px)" srcset="assets/qadan-platform-mobile-light.jpg?v=20261026">
+      <img src="assets/qadan-platform-light.jpg?v=20261026" alt="MagTek Platform and Advisor Platforms project posters." width="880">
+    </picture>
+  </a>
+  <a href="https://qadan.co/work/#gh-dark-mode-only">
+    <picture>
+      <source media="(max-width: 1100px)" srcset="assets/qadan-platform-mobile-dark.jpg?v=20261026">
+      <img src="assets/qadan-platform-dark.jpg?v=20261026" alt="MagTek Platform and Advisor Platforms project posters." width="880">
+    </picture>
+  </a>
+</p>
 
-Eleven sites on one ASP.NET MVC codebase. My side is the frontend: a Razor component library past 100 pieces, a CSS foundation rebuilt as tokens, and migrations sequenced so production stays up.
+### MagTek Platform
+
+<sub>Platform work · Current</sub>
+
+Platform context: eleven sites on one ASP.NET MVC codebase, $11B processed annually, 99.9% uptime. My contribution: about 85% frontend ownership, a Razor component library past 100 pieces, a CSS foundation rebuilt as tokens, and migrations sequenced so production stays up.
 
 [Case study](https://qadan.co/work/magtek-platform/)
 
-### InvestCloud
+### Advisor Platforms
 
-Advisor and customer portals for more than fifty wealth and banking institutions ran on one multi-tenant framework, each with its own branding and density. I implemented the frontends and translated the designs, then did it again for the next institution.
+<sub>Platform work · Earlier</sub>
+
+Advisor and customer portals for more than fifty wealth and banking institutions ran on one multi-tenant framework at InvestCloud, each with its own branding and density. I implemented the frontends and translated the designs, contributed to or led 0-to-production deploys.
 
 [Case study](https://qadan.co/work/financial-platforms/)
 
-## Stack
+## Tools
 
-<picture>
-  <source media="(max-width: 1100px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
-  <source media="(max-width: 1100px)" srcset="assets/stack-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Toolchain grouped by layer: interface, platform, and instrument." width="880">
-</picture>
-
-Most new work is TypeScript and React. MagTek is C# and Razor; the hardware work is Swift and Python.
+Most new work is TypeScript and React. MagTek is C# and Razor; the automotive work is Swift and Python. The current toolchain is on [Uses](https://qadan.co/uses/).
 
 ## Contact
 
-Case studies are at [qadan.co/work](https://qadan.co/work/). [moe@qadan.co](mailto:moe@qadan.co) reaches me.
+[qadan.co](https://qadan.co/) · [Work](https://qadan.co/work/) · [LinkedIn](https://linkedin.com/in/mqadan) · [GitHub](https://github.com/qadanm) · [moe@qadan.co](mailto:moe@qadan.co)

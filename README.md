@@ -17,6 +17,8 @@ I designed and built CarSpotter, VINly, and ChatOBD2. Two open-source libraries 
 
 Now: VINly is live on the App Store. ChatOBD2 is in QA and field testing.
 
+Case studies: [qadan.co/work](https://qadan.co/work/). Email: [moe@qadan.co](mailto:moe@qadan.co).
+
 ## Independent products
 
 ### CarSpotter

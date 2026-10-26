@@ -56,11 +56,11 @@ The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so
 
 [Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
 
-### vehicle-research
+### vinplain
 
-A TypeScript client for US public vehicle data: VIN validation and the ISO 3779 check digit, NHTSA recalls, complaints, and crash ratings, EPA fuel economy. Zero runtime dependencies, 30 deterministic tests, MIT.
+The public record, in plain code. A TypeScript client for US vehicle data: VIN validation and the ISO 3779 check digit, NHTSA recalls, complaints, and crash ratings, EPA fuel economy. Zero runtime dependencies, 34 deterministic tests, MIT.
 
-[Repository](https://github.com/qadanm/vehicle-research) · [v0.1.2](https://github.com/qadanm/vehicle-research/releases/tag/v0.1.2)
+[Repository](https://github.com/qadanm/vinplain) · [v0.2.0](https://github.com/qadanm/vinplain/releases/tag/v0.2.0)
 
 ## Platform work
 

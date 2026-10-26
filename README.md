@@ -1,13 +1,15 @@
+<a href="https://qadan.co/work/" aria-label="Case studies at qadan.co/work">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" alt="Moe Qadan, senior UX and frontend engineer in Los Angeles" width="880">
 </picture>
+</a>
 
 Greenfield happens, but most of the work I take on is repair on systems that are already live and have traffic. Design systems, frontend architecture, and accessibility are most of it. So is the build and test tooling around a release.
 
-At MagTek I look after the web experience across eleven sites on an ASP.NET MVC stack. Outside that I build my own products: two on the App Store, one in field testing, and an open-source test harness that came out of the OBD2 work.
+Outside that I build my own products: two on the App Store, one in field testing, and an open-source test harness that came out of the OBD2 work.
 
 ## Products
 
@@ -77,7 +79,7 @@ Advisor and customer portals for more than fifty wealth and banking institutions
   <img src="assets/stack-light.svg" alt="Toolchain grouped by layer: interface, platform, and instrument." width="880">
 </picture>
 
-Most new work is TypeScript and React. MagTek is C# and Razor; the hardware work is Swift and Python. Supabase for backends I own, GitHub Actions for anything that should not be manual.
+Most new work is TypeScript and React. MagTek is C# and Razor; the hardware work is Swift and Python.
 
 ## Contact
 

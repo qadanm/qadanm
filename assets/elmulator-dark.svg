@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340" role="img" aria-labelledby="teD deD">
 <title id="teD">elmulator: app to scripted adapter to ECU, with Swift and Python servers compared byte for byte</title>
 <desc id="deD">A phone app talks over Bluetooth to a scripted ELM327 adapter and a scripted ECU. Below, Swift and Python servers feed a conformance check that compares their output bytes.</desc>
-<rect width="880" height="340" fill="#121311"/>
+<rect width="880" height="340" fill="#17191A"/>
 <rect x="20" y="20" width="840" height="300" fill="none" stroke="#EDEAE2" stroke-width="1"/>
 <path d="M20 32V20h12 M848 20h12v12 M860 308v12h-12 M32 320h-12v-12" fill="none" stroke="#EDEAE2" stroke-width="1.4"/>
 <text x="40" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="2" fill="#9A958C">FIG. 04 / ELMULATOR</text>

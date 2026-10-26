@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" width="480" height="400" role="img" aria-labelledby="temD demD">
 <title id="temD">elmulator test path</title>
 <desc id="demD">An app connects to a central stack, then a scripted ELM327 adapter, then a scripted ECU. Swift and Python servers feed a byte-for-byte conformance check.</desc>
-<rect width="480" height="400" fill="#121311"/>
+<rect width="480" height="400" fill="#17191A"/>
 <rect x="14" y="14" width="452" height="372" fill="none" stroke="#EDEAE2" stroke-width="1"/>
 <path d="M14 26V14h12 M454 14h12v12 M466 374v12h-12 M26 386h-12v-12" fill="none" stroke="#EDEAE2" stroke-width="1.4"/>
 <text x="24" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.8" fill="#9A958C">FIG. 04 / ELMULATOR</text>

@@ -8,6 +8,8 @@
 <text x="840" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.6" text-anchor="end" fill="#6A665F">ONE DETAIL / FIVE A DAY / FOUR CHOICES</text>
 <rect x="40" y="62" width="300" height="134" fill="none" stroke="#141414" stroke-width="1"/>
 <path d="M72 196 L72 128 A 118 58 0 0 1 308 128 L308 196" fill="none" stroke="#141414" stroke-width="2"/>
+<circle cx="190" cy="196" r="34" fill="none" stroke="#141414" stroke-width="1.6"/>
+<circle cx="190" cy="196" r="12" fill="none" stroke="#141414" stroke-width="1.1"/>
 <line x1="54" y1="100" x2="326" y2="100" stroke="#141414" stroke-width="1.2"/>
 <circle cx="72" cy="100" r="2.5" fill="#EA580C"/><circle cx="308" cy="100" r="2.5" fill="#EA580C"/>
 <text x="332" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.4" text-anchor="end" fill="#6A665F">CROP / DETAIL</text>

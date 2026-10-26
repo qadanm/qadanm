@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" width="480" height="250" role="img" aria-labelledby="tsmD dsmD">
 <title id="tsmD">Toolchain grouped by layer</title>
 <desc id="dsmD">Interface: TypeScript, React, React Native, Astro, hand-written CSS. Platform: ASP.NET MVC, C sharp, Razor, Supabase. Instrument: Swift, Python, GitHub Actions.</desc>
-<rect width="480" height="250" fill="#121311"/>
+<rect width="480" height="250" fill="#17191A"/>
 <rect x="14" y="14" width="452" height="222" fill="none" stroke="#EDEAE2" stroke-width="1"/>
 <path d="M14 26V14h12 M454 14h12v12 M466 224v12h-12 M26 236h-12v-12" fill="none" stroke="#EDEAE2" stroke-width="1.4"/>
 <text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.8" fill="#9A958C">FIG. 05 / TOOLCHAIN</text>

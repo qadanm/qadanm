@@ -58,9 +58,9 @@ The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so
 
 ### vinplain
 
-The public record, in plain code. A TypeScript client for US vehicle data: VIN validation and the ISO 3779 check digit, NHTSA recalls, complaints, and crash ratings, EPA fuel economy. Zero runtime dependencies, 34 deterministic tests, MIT.
+Reads the public record for a VIN: factory decode, NHTSA recalls and complaints, crash ratings, and EPA fuel economy. TypeScript, no API key, 34 tests, MIT.
 
-[Repository](https://github.com/qadanm/vinplain) · [v0.2.0](https://github.com/qadanm/vinplain/releases/tag/v0.2.0)
+[Repository](https://github.com/qadanm/vinplain) · [v0.2.1](https://github.com/qadanm/vinplain/releases/tag/v0.2.1)
 
 ## Platform work
 

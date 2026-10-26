@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" alt="Moe Qadan, senior UX and frontend engineer in Los Angeles" width="880">
 </picture>
@@ -42,6 +44,8 @@ An AI mechanic for people who do not want to learn OBD2. Six deterministic reaso
 ### elmulator
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/elmulator-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/elmulator-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/elmulator-dark.svg">
   <img src="assets/elmulator-light.svg" alt="Diagram: an app connects over Bluetooth to a scripted ELM327 adapter and ECU. Below, Swift and Python servers are compared byte for byte." width="880">
 </picture>
@@ -67,6 +71,8 @@ Advisor and customer portals for more than fifty wealth and banking institutions
 ## <img src="assets/marker.svg" width="12" height="12" alt=""> Stack
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" alt="Toolchain grouped by layer: interface, platform, and instrument." width="880">
 </picture>

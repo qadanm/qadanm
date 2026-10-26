@@ -10,27 +10,27 @@ I care about reading the constraints before changing anything, picking structure
 
 ## Selected work
 
-**CarSpotter** · daily car-identification game for iPhone
+**CarSpotter** · daily car-identification game for iPhone<br>
 Designed and engineered end to end: interaction, identity, content tooling, release.
 [App Store](https://apps.apple.com/app/carspotter-daily-car-game/id6777868215) · [carspottergame.com](https://carspottergame.com) · [Case study](https://qadan.co/work/car-spotter/)
 
-**VINly** · free VIN research for iOS
+**VINly** · free VIN research for iOS<br>
 Recalls, complaints, crash tests, fuel cost, and nearby listings. Every VIN is check-digit validated on device before anything is looked up.
 [App Store](https://apps.apple.com/us/app/vinly-buyer-reports/id6774041303) · [vinly.dev](https://vinly.dev) · [Case study](https://qadan.co/work/vinly/)
 
-**elmulator** · scriptable ELM327/OBD2 adapter emulator and CI harness
+**elmulator** · scriptable ELM327/OBD2 adapter emulator and CI harness<br>
 Swift and Python servers, held byte-for-byte identical by a conformance suite. Test real Bluetooth code with no car, no adapter, no radio. MIT.
 [Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
 
-**ChatOBD2** · AI-native automotive diagnostics
+**ChatOBD2** · AI-native automotive diagnostics<br>
 Prompt modules as production code, schema-bound output, deterministic reasoning before every model call. In QA and field testing.
 [Case study](https://qadan.co/work/chatobd2/)
 
-**MagTek** · enterprise web platform, current
+**MagTek** · enterprise web platform, current<br>
 Frontend systems across an 11-site ASP.NET MVC estate: a 100+ component Razor library, a token-based CSS foundation, and migrations sequenced to keep production up.
 [Case study](https://qadan.co/work/magtek-platform/)
 
-**InvestCloud** · wealth and banking portals, earlier
+**InvestCloud** · wealth and banking portals, earlier<br>
 Advisor and customer portals deployed across 50+ institutions on a multi-tenant frontend.
 [Case study](https://qadan.co/work/financial-platforms/)
 

@@ -9,7 +9,7 @@ Greenfield happens, but most of the work I take on is repair on systems that are
 
 At MagTek I look after the web experience across eleven sites on an ASP.NET MVC stack. Outside that I build my own products: two on the App Store, one in field testing, and an open-source test harness that came out of the OBD2 work.
 
-## <img src="assets/marker.svg" width="12" height="12" alt=""> Products
+## Products
 
 ### CarSpotter
 
@@ -39,7 +39,7 @@ An AI mechanic for people who do not want to learn OBD2. Six deterministic reaso
 
 [Case study](https://qadan.co/work/chatobd2/)
 
-## <img src="assets/marker.svg" width="12" height="12" alt=""> Open source
+## Open source
 
 ### elmulator
 
@@ -54,7 +54,7 @@ The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so
 
 [Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
 
-## <img src="assets/marker.svg" width="12" height="12" alt=""> Platform work
+## Platform work
 
 ### MagTek
 
@@ -68,7 +68,7 @@ Advisor and customer portals for more than fifty wealth and banking institutions
 
 [Case study](https://qadan.co/work/financial-platforms/)
 
-## <img src="assets/marker.svg" width="12" height="12" alt=""> Stack
+## Stack
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
@@ -79,6 +79,6 @@ Advisor and customer portals for more than fifty wealth and banking institutions
 
 Most new work is TypeScript and React. MagTek is C# and Razor; the hardware work is Swift and Python. Supabase for backends I own, GitHub Actions for anything that should not be manual.
 
-## <img src="assets/marker.svg" width="12" height="12" alt=""> Contact
+## Contact
 
 Case studies are at [qadan.co/work](https://qadan.co/work/). [moe@qadan.co](mailto:moe@qadan.co) reaches me.

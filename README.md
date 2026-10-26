@@ -13,8 +13,6 @@ I designed and built CarSpotter, VINly, and ChatOBD2. Two open-source libraries 
 
 Now: VINly is live on the App Store. ChatOBD2 is in QA and field testing.
 
-<img src="assets/q-cut.svg" width="24" height="8" alt="">
-
 ## Independent products
 
 ### CarSpotter
@@ -53,8 +51,6 @@ ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic 
 
 [Case study](https://qadan.co/work/chatobd2/)
 
-<img src="assets/q-cut.svg" width="24" height="8" alt="">
-
 ## Open source
 
 <p align="center">
@@ -82,8 +78,6 @@ Reads the public record for a VIN: factory decode, NHTSA recalls and complaints,
 
 [npm](https://www.npmjs.com/package/vinplain) · [Website](https://qadanm.github.io/vinplain/) · [Repository](https://github.com/qadanm/vinplain) · [Case study](https://qadan.co/work/vinplain/)
 
-<img src="assets/q-cut.svg" width="24" height="8" alt="">
-
 ## Platform work
 
 <p align="center">
@@ -110,8 +104,6 @@ Platform context: eleven sites on one ASP.NET MVC codebase, $11B processed annua
 Advisor and customer portals for more than fifty wealth and banking institutions ran on one multi-tenant framework at InvestCloud, each with its own branding and density. I implemented the frontends and translated the designs, contributed to or led 0-to-production deploys.
 
 [Case study](https://qadan.co/work/financial-platforms/)
-
-<img src="assets/q-cut.svg" width="24" height="8" alt="">
 
 ## Tools
 

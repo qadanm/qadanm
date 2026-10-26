@@ -1,12 +1,12 @@
 <a href="https://qadan.co/work/#gh-light-mode-only" aria-label="Case studies at qadan.co/work">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/qadan-hero-mobile-light.png?v=20261026">
+  <source media="(max-width: 1100px)" srcset="assets/qadan-hero-mobile-light.png?v=20261026">
   <img src="assets/qadan-hero-light.png?v=20261026" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
 </picture>
 </a>
 <a href="https://qadan.co/work/#gh-dark-mode-only" aria-label="Case studies at qadan.co/work">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/qadan-hero-mobile-dark.png?v=20261026">
+  <source media="(max-width: 1100px)" srcset="assets/qadan-hero-mobile-dark.png?v=20261026">
   <img src="assets/qadan-hero-dark.png?v=20261026" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
 </picture>
 </a>
@@ -62,13 +62,13 @@ ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic 
 <p align="center">
   <a href="https://qadan.co/work/#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/qadan-open-source-mobile-light.jpg?v=20261026">
+      <source media="(max-width: 1100px)" srcset="assets/qadan-open-source-mobile-light.jpg?v=20261026">
       <img src="assets/qadan-open-source-light.jpg?v=20261026" alt="elmulator and vinplain project posters." width="880">
     </picture>
   </a>
   <a href="https://qadan.co/work/#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/qadan-open-source-mobile-dark.jpg?v=20261026">
+      <source media="(max-width: 1100px)" srcset="assets/qadan-open-source-mobile-dark.jpg?v=20261026">
       <img src="assets/qadan-open-source-dark.jpg?v=20261026" alt="elmulator and vinplain project posters." width="880">
     </picture>
   </a>
@@ -95,13 +95,13 @@ Reads the public record for a VIN: factory decode, NHTSA recalls and complaints,
 <p align="center">
   <a href="https://qadan.co/work/#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/qadan-platform-mobile-light.jpg?v=20261026">
+      <source media="(max-width: 1100px)" srcset="assets/qadan-platform-mobile-light.jpg?v=20261026">
       <img src="assets/qadan-platform-light.jpg?v=20261026" alt="MagTek Platform and Advisor Platforms project posters." width="880">
     </picture>
   </a>
   <a href="https://qadan.co/work/#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/qadan-platform-mobile-dark.jpg?v=20261026">
+      <source media="(max-width: 1100px)" srcset="assets/qadan-platform-mobile-dark.jpg?v=20261026">
       <img src="assets/qadan-platform-dark.jpg?v=20261026" alt="MagTek Platform and Advisor Platforms project posters." width="880">
     </picture>
   </a>

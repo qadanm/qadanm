@@ -1,13 +1,13 @@
 <a href="https://qadan.co/work/#gh-light-mode-only" aria-label="Case studies at qadan.co/work">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.png">
-  <img src="assets/hero-light.png" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
+  <source media="(max-width: 600px)" srcset="assets/qadan-hero-mobile-light.png">
+  <img src="assets/qadan-hero-light.png" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
 </picture>
 </a>
 <a href="https://qadan.co/work/#gh-dark-mode-only" aria-label="Case studies at qadan.co/work">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-dark.png">
-  <img src="assets/hero-dark.png" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
+  <source media="(max-width: 600px)" srcset="assets/qadan-hero-mobile-dark.png">
+  <img src="assets/qadan-hero-dark.png" alt="Moe Qadan, independent senior UX and frontend engineer, with the line: I do UX and frontend as one job." width="880">
 </picture>
 </a>
 
@@ -24,7 +24,7 @@ Now: VINly is live on the App Store. ChatOBD2 is in QA and field testing.
 <sub>Independent product · iOS · On the App Store</sub>
 
 <p align="center">
-  <a href="https://qadan.co/work/car-spotter/"><img src="assets/project-carspotter.jpg" alt="CarSpotter poster: the Saturn identity, a daily car question, and the matching reveal." width="720"></a>
+  <a href="https://qadan.co/work/car-spotter/"><img src="assets/qadan-carspotter.jpg" alt="CarSpotter poster: the Saturn identity, a daily car question, and the matching reveal." width="720"></a>
 </p>
 
 Five cars a day, four choices, then the whole car and a fact. I designed the game and the iPhone app, built the Saturn-led identity, and wrote the ImageMagick pipeline that prepares the photography.
@@ -36,7 +36,7 @@ Five cars a day, four choices, then the whole car and a fact. I designed the gam
 <sub>Independent product · iOS · On the App Store</sub>
 
 <p align="center">
-  <a href="https://qadan.co/work/vinly/"><img src="assets/project-vinly.jpg" alt="VINly poster: a 2024 Ford F-150 public-record report and the on-device VIN reader." width="720"></a>
+  <a href="https://qadan.co/work/vinly/"><img src="assets/qadan-vinly.jpg" alt="VINly poster: a 2024 Ford F-150 public-record report and the on-device VIN reader." width="720"></a>
 </p>
 
 Scan a VIN and get the car's public record: recalls, complaints, crash tests, fuel cost, and listings nearby. The VIN is read on the phone, validated against the ISO 3779 check digit before any lookup, and the photo never leaves the device. Free.
@@ -48,7 +48,7 @@ Scan a VIN and get the car's public record: recalls, complaints, crash tests, fu
 <sub>Independent product · iOS · In QA and field testing</sub>
 
 <p align="center">
-  <a href="https://qadan.co/work/chatobd2/"><img src="assets/project-chatobd2.jpg" alt="ChatOBD2 poster: a diagnostic chat and verdict surface on a 2010 Toyota Prius." width="720"></a>
+  <a href="https://qadan.co/work/chatobd2/"><img src="assets/qadan-chatobd2.jpg" alt="ChatOBD2 poster: a diagnostic chat and verdict surface on a 2010 Toyota Prius." width="720"></a>
 </p>
 
 ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic reasoning engine correlates codes, freeze-frame data, and fuel trims; six reasoning layers and a 38,000-token prompt budget sit before the model call, and the report is schema-validated before the app renders it. The app, marketing site, and developer portal are built. In QA and field testing.
@@ -60,14 +60,14 @@ ChatOBD2 turns an OBD2 scan into ranked, plain-language causes. A deterministic 
 <p align="center">
   <a href="https://qadan.co/work/#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/shelf-open-source-mobile-light.jpg">
-      <img src="assets/shelf-open-source-light.jpg" alt="elmulator and vinplain project posters." width="880">
+      <source media="(max-width: 600px)" srcset="assets/qadan-open-source-mobile-light.jpg">
+      <img src="assets/qadan-open-source-light.jpg" alt="elmulator and vinplain project posters." width="880">
     </picture>
   </a>
   <a href="https://qadan.co/work/#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/shelf-open-source-mobile-dark.jpg">
-      <img src="assets/shelf-open-source-dark.jpg" alt="elmulator and vinplain project posters." width="880">
+      <source media="(max-width: 600px)" srcset="assets/qadan-open-source-mobile-dark.jpg">
+      <img src="assets/qadan-open-source-dark.jpg" alt="elmulator and vinplain project posters." width="880">
     </picture>
   </a>
 </p>
@@ -93,14 +93,14 @@ Reads the public record for a VIN: factory decode, NHTSA recalls and complaints,
 <p align="center">
   <a href="https://qadan.co/work/#gh-light-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/shelf-platform-mobile-light.jpg">
-      <img src="assets/shelf-platform-light.jpg" alt="MagTek Platform and Advisor Platforms project posters." width="880">
+      <source media="(max-width: 600px)" srcset="assets/qadan-platform-mobile-light.jpg">
+      <img src="assets/qadan-platform-light.jpg" alt="MagTek Platform and Advisor Platforms project posters." width="880">
     </picture>
   </a>
   <a href="https://qadan.co/work/#gh-dark-mode-only">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/shelf-platform-mobile-dark.jpg">
-      <img src="assets/shelf-platform-dark.jpg" alt="MagTek Platform and Advisor Platforms project posters." width="880">
+      <source media="(max-width: 600px)" srcset="assets/qadan-platform-mobile-dark.jpg">
+      <img src="assets/qadan-platform-dark.jpg" alt="MagTek Platform and Advisor Platforms project posters." width="880">
     </picture>
   </a>
 </p>

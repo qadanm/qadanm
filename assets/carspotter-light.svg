@@ -13,7 +13,7 @@
 <text x="332" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.4" text-anchor="end" fill="#6A665F">CROP / DETAIL</text>
 <line x1="372" y1="130" x2="456" y2="130" stroke="#EA580C" stroke-width="1.6"/>
 <path d="M466 130l-10-4v8z" fill="#EA580C"/>
-<text x="414" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.6" text-anchor="middle" fill="#EA580C">REVEAL</text>
+<text x="414" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7.5" letter-spacing="1.6" text-anchor="middle" fill="#C2410C">REVEAL</text>
 <path d="M520,172 L520,140 Q526,124 560,119 L602,117 Q618,98 652,96 L722,96 Q752,98 768,117 L802,124 Q818,129 820,146 L820,172" fill="none" stroke="#141414" stroke-width="1.8"/>
 <circle cx="573" cy="172" r="22" fill="none" stroke="#141414" stroke-width="1.8"/>
 <circle cx="573" cy="172" r="8" fill="none" stroke="#141414" stroke-width="1.2"/>

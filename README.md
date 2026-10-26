@@ -50,7 +50,7 @@ An AI mechanic for people who do not want to learn OBD2. Six deterministic reaso
   <img src="assets/elmulator-light.svg" alt="Diagram: an app connects over Bluetooth to a scripted ELM327 adapter and ECU. Below, Swift and Python servers are compared byte for byte." width="880">
 </picture>
 
-The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so the Bluetooth layer usually goes untested. elmulator is a scripted ELM327 you can point real CoreBluetooth code at, in CI, with no car and no adapter. A conformance suite keeps the Swift server and the Python server byte-identical. Public and MIT.
+The iOS Simulator has no radio, and Apple does not let you mock a peripheral, so the Bluetooth layer usually goes untested. elmulator is a scripted ELM327 you can point real CoreBluetooth code at, in CI, with no car and no adapter. A conformance suite keeps the Swift server and the Python server byte-identical. The repository is public and MIT licensed.
 
 [Repository](https://github.com/qadanm/elmulator) · [PyPI](https://pypi.org/project/elmulator/) · [Swift Package Index](https://swiftpackageindex.com/qadanm/elmulator) · [Case study](https://qadan.co/work/elmulator/)
 
